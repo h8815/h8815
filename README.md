@@ -147,7 +147,7 @@ philosophy: "Automate everything you can — simplify everything you can't"
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats & Activity
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=h8815&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Himanshu's GitHub Stats" width="49%" />
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=h8815&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" /> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=h8815&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=h8815&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=h8815&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" width="49%" />
 </div>
