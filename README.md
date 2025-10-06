@@ -1,8 +1,3 @@
-<!-- Background Image -->
-<p align="center">
-  <img src="assets/github_banner.jpg" alt="Profile Banner" width="100%">
-</p>
-
 <!-- Hero Section -->
 <h1 align="center">Hey 👋, I'm Himanshu Solanki 👨‍💻</h1>
 <p align="center">
