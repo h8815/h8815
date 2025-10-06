@@ -58,10 +58,12 @@
 
 ## 📊 GitHub Stats & Activity
 
-![](https://komarev.com/ghpvc/?username=h8815&label=Profile%20Views&color=brightgreen)<br>
-![](https://github-readme-stats.vercel.app/api?username=h8815&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=h8815&theme=tokyonight&hide_border=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=h8815&theme=tokyonight&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=h8815&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Himanshu's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=h8815&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h8815&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
 
 ---
 
