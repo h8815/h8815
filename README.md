@@ -1,6 +1,6 @@
 <!-- Background Image -->
 <p align="center">
-  <img src="assets/github_banner.png" alt="Profile Banner" width="100%">
+  <img src="assets/github_banner.jpg" alt="Profile Banner" width="100%">
 </p>
 
 <!-- Hero Section -->
