@@ -66,7 +66,7 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=h8815&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Himanshu's GitHub Stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=h8815&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h8815&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=h8815&theme=tokyonight&hide_border=false" alt="GitHub Streak" /> -->
 </p>
 
 
