@@ -40,7 +40,8 @@ skills:
   - Terraform | Ansible | Helm
   - Jenkins | ArgoCD
   - Prometheus | Grafana
-philosophy: "Automate everything you can — simplify everything you can't"
+philosophy:
+   Automate everything you can — simplify everything you can't
 ```
 
 <br clear="right"/>
