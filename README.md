@@ -60,7 +60,7 @@ philosophy:
 <tr>
 <td align="center" width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="25" /> Cloud & Infrastructure
+### Cloud & Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -68,7 +68,7 @@ philosophy:
 </td>
 <td align="center" width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="25" /> Containers & Orchestration
+### Containers & Orchestration
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -80,7 +80,7 @@ philosophy:
 <tr>
 <td align="center" width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="25" /> CI/CD & GitOps
+### CI/CD & GitOps
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
@@ -89,7 +89,7 @@ philosophy:
 </td>
 <td align="center" width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" /> Infrastructure as Code
+### Infrastructure as Code
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
@@ -100,7 +100,7 @@ philosophy:
 <tr>
 <td align="center" width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="25" /> Monitoring & Observability
+### Monitoring & Observability
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -108,7 +108,7 @@ philosophy:
 </td>
 <td align="center" width="50%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> Programming & Scripting
+### Programming & Scripting
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -120,7 +120,7 @@ philosophy:
 <tr>
 <td align="center" colspan="2">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" width="25" /> Development Tools
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -133,26 +133,18 @@ philosophy:
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Connect with Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats & Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-solanki81815/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/h8_815/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://h8815.medium.com/)
-
-</div>
-
----
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub Stats & Activity
-<div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=h8815&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Himanshu's GitHub Stats" width="49%" />
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=h8815&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" /> -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=h8815&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=h8815&theme=high-contrast&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=h8815&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
+
 </div>
+
 <div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=h8815&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Language Stats" width="49%" />
 
 </div>
 
@@ -178,38 +170,40 @@ philosophy:
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="32"> Currently Exploring
-
-<div align="center">
-
-```diff
-+ Advanced Kubernetes & Helm
-+ GitOps with ArgoCD
-+ Terraform automation for multi-cloud
-+ Observability with Prometheus & Grafana
-```
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> Fun Fact
-
-<div align="center">
-
-**I love turning complex infrastructure problems into automated, elegant workflows.**
-
-When not working on DevOps pipelines, I share my thoughts on [Medium](https://h8815.medium.com/) and tinker with cloud projects.
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Contribution Snake
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/h8815/h8815/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Let's Connect & Collaborate
+
+<div align="center">
+
+### Open for exciting DevOps opportunities and collaborations!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-solanki81815/)
+[![Medium](https://img.shields.io/badge/Medium-Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://h8815.medium.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/h8_815/)
+[![Email](https://img.shields.io/badge/Email-hsolanki81815@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hsolanki81815@gmail.com)
+
+### What I can help you with:
+
+```yaml
+services:
+  - Cloud Infrastructure Design & Implementation
+  - CI/CD Pipeline Setup & Optimization
+  - Kubernetes Cluster Management
+  - Infrastructure Automation with Terraform
+  - DevOps Consulting & Best Practices
+  - Monitoring & Observability Solutions
+```
+
+**💬 Looking for a DevOps Engineer? Let's talk!**
 
 </div>
 
