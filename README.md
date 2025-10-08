@@ -48,7 +48,7 @@ philosophy:
 <p align="center">
 ▸ Tech enthusiast passionate about DevOps and Cloud Computing <br>
 ▸ Experienced in automation, CI/CD pipelines, containerization, and monitoring  <br>
-▸ Skilled with AWS, Kubernetes, Docker, Helm, ArgoCD, and Terraform  
+▸ Skilled with AWS, Kubernetes, Docker, Helm, ArgoCD, and Terraform  <br>
 ▸ Love optimizing workflows and building scalable, production-ready systems  
 ▸ Always exploring new DevOps tools and best practices  
 </p>
