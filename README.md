@@ -45,12 +45,13 @@ philosophy:
 ```
 
 <br clear="right"/>
-
-▸ Tech enthusiast passionate about DevOps and Cloud Computing  
+<p align="center">
+▸ Tech enthusiast passionate about DevOps and Cloud Computing <br>
 ▸ Experienced in automation, CI/CD pipelines, containerization, and monitoring  
 ▸ Skilled with AWS, Kubernetes, Docker, Helm, ArgoCD, and Terraform  
 ▸ Love optimizing workflows and building scalable, production-ready systems  
 ▸ Always exploring new DevOps tools and best practices  
+</p>
 
 ---
 
