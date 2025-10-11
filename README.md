@@ -46,13 +46,13 @@ philosophy:
 
 <br clear="right"/>
 <div align = "center">
-<i>
+<b><i>
 ▸ Tech enthusiast passionate about DevOps and Cloud Computing <br>
 ▸ Experienced in automation, CI/CD pipelines, containerization, and monitoring  <br>
 ▸ Skilled with AWS, Kubernetes, Docker, Helm, ArgoCD, and Terraform  <br>
 ▸ Love optimizing workflows and building scalable, production-ready systems  <br>
 ▸ Always exploring new DevOps tools and best practices  <br>
-</i>
+</i></b>
 </div>
 
 ---
