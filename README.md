@@ -141,7 +141,7 @@ philosophy:
 <div align="center">
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=h8815&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Himanshu's GitHub Stats" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=h8815&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=h8815&theme=radical&hide_border=true&date_format=M%20j,%20Y&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
 
 </div>
 
