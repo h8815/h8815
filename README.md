@@ -153,16 +153,6 @@ philosophy:
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=h8815&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> Dev Quote
 
 <div align="center">
@@ -173,11 +163,12 @@ philosophy:
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Contribution Snake
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Contributions
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/h8815/h8815/output/github-contribution-grid-snake-dark.svg)
+<!-- ![Snake animation](https://raw.githubusercontent.com/h8815/h8815/output/github-contribution-grid-snake-dark.svg) -->
+![My GitHub Game](game.gif)
 
 </div>
 
